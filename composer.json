@@ -1,0 +1,27 @@
+{
+  "name": "xiaklizrum/universal-analytics-php",
+  "description": "Server-side tracking for Google Universal Analytics",
+  "license": "MIT",
+  "keywords": [
+    "yandex-metrika"
+  ],
+  "homepage": "https://github.com/xiaklizrum/universal-analytics-php",
+  "authors": [
+    {
+      "name": "github.com/xiaklizrum",
+      "email": "xiaklizrum@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.6"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "UniversalAnalytics\\": "src"
+    }
+  }
+}
+
